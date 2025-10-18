@@ -35,9 +35,6 @@ This README file will guide you through the installation process, provide tutori
 # Screenshots
 ![SS](./son.png)
 
-# License
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE.txt) file for details.
-
 # Acknowledgements
 - Cisco Networking Academy for providing the tools and resources to make this project possible.
 - Open-source community and online forums for their continuous support and shared knowledge.
